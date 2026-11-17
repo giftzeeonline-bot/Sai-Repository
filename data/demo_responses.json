@@ -1,0 +1,996 @@
+{
+  "metadata": {
+    "description": "Fictional demo; captured through the local HTTP API.",
+    "corpus_records": 220,
+    "model_mode": "extractive (deterministic demo)",
+    "jira_configured": false
+  },
+  "results": [
+    {
+      "name": "E21 drain failure",
+      "request": {
+        "name": "E21 drain failure",
+        "overview": "Washer stops before spin and displays E21; water remains in drum.",
+        "component": "Drain pump and filter",
+        "observations": "Cycle stops after drain phase. Accessible filter appears clear."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1001",
+            "kind": "ticket",
+            "title": "Washer does not drain and displays E21",
+            "relevance": 70.2,
+            "citation": {
+              "id": "QA-1001",
+              "label": "QA-1001",
+              "url": "https://jira.example.invalid/browse/QA-1001"
+            },
+            "resolution": "With the appliance isolated from power, the technician checked the accessible drain filter and hose for blockage, then ran a supervised drain cycle. The obstruction was removed and the cycle completed.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P001",
+            "kind": "manual",
+            "title": "Drain pump and filter: service observation 001",
+            "relevance": 36.6,
+            "citation": {
+              "id": "SM-P001",
+              "label": "Service manual, page 1 (SM-P001)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 001; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1009",
+            "kind": "ticket",
+            "title": "Washer displays E20 after rinse",
+            "relevance": 35.5,
+            "citation": {
+              "id": "QA-1009",
+              "label": "QA-1009",
+              "url": "https://jira.example.invalid/browse/QA-1009"
+            },
+            "resolution": "The technician checked the drain hose routing for kinks and the accessible filter for lint, following the model service procedure. The restricted hose routing was corrected and the drain test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1008",
+            "kind": "ticket",
+            "title": "Washer makes grinding noise during drain",
+            "relevance": 34.4,
+            "citation": {
+              "id": "QA-1008",
+              "label": "QA-1008",
+              "url": "https://jira.example.invalid/browse/QA-1008"
+            },
+            "resolution": "The technician isolated power, checked the accessible filter cavity for foreign objects, and inspected the pump impeller using the approved service procedure. A foreign object was removed and a supervised drain test was quiet.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P009",
+            "kind": "manual",
+            "title": "Drain pump and hose: service observation 009",
+            "relevance": 27.5,
+            "citation": {
+              "id": "SM-P009",
+              "label": "Service manual, page 9 (SM-P009)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 009; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "SM-P008",
+            "kind": "manual",
+            "title": "Drain pump: service observation 008",
+            "relevance": 25.8,
+            "citation": {
+              "id": "SM-P008",
+              "label": "Service manual, page 8 (SM-P008)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 008; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "With the appliance isolated from power, the technician checked the accessible drain filter and hose for blockage, then ran a supervised drain cycle. The obstruction was removed and the cycle completed.",
+            "citations": [
+              {
+                "id": "QA-1001",
+                "label": "QA-1001",
+                "url": "https://jira.example.invalid/browse/QA-1001"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 70.2
+          },
+          {
+            "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 001; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P001",
+                "label": "Service manual, page 1 (SM-P001)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 36.6
+          },
+          {
+            "text": "The technician checked the drain hose routing for kinks and the accessible filter for lint, following the model service procedure. The restricted hose routing was corrected and the drain test passed.",
+            "citations": [
+              {
+                "id": "QA-1009",
+                "label": "QA-1009",
+                "url": "https://jira.example.invalid/browse/QA-1009"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 35.5
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.5
+      },
+      "round_trip_ms": 2.6
+    },
+    {
+      "name": "Slow fill E10",
+      "request": {
+        "name": "Slow fill E10",
+        "overview": "Washer fills slowly and reports inlet error E10.",
+        "component": "Water inlet valve and hose",
+        "observations": "Little water enters during fill; hose routing is being checked."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1002",
+            "kind": "ticket",
+            "title": "Washer fills slowly; inlet error E10",
+            "relevance": 58.3,
+            "citation": {
+              "id": "QA-1002",
+              "label": "QA-1002",
+              "url": "https://jira.example.invalid/browse/QA-1002"
+            },
+            "resolution": "The technician verified the supply tap was open and the inlet hose was not kinked, then inspected the inlet screen according to the service procedure. A restricted screen was cleaned and the fill test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P002",
+            "kind": "manual",
+            "title": "Water inlet valve and hose: service observation 002",
+            "relevance": 43.0,
+            "citation": {
+              "id": "SM-P002",
+              "label": "Service manual, page 2 (SM-P002)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 002; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1009",
+            "kind": "ticket",
+            "title": "Washer displays E20 after rinse",
+            "relevance": 21.2,
+            "citation": {
+              "id": "QA-1009",
+              "label": "QA-1009",
+              "url": "https://jira.example.invalid/browse/QA-1009"
+            },
+            "resolution": "The technician checked the drain hose routing for kinks and the accessible filter for lint, following the model service procedure. The restricted hose routing was corrected and the drain test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1020",
+            "kind": "ticket",
+            "title": "Water remains in detergent compartment after fill",
+            "relevance": 18.6,
+            "citation": {
+              "id": "QA-1020",
+              "label": "QA-1020",
+              "url": "https://jira.example.invalid/browse/QA-1020"
+            },
+            "resolution": "The technician cleaned the removable dispenser insert according to the model manual and checked the accessible inlet channels for residue. A supervised fill test confirmed normal flow through each compartment.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P009",
+            "kind": "manual",
+            "title": "Drain pump and hose: service observation 009",
+            "relevance": 15.9,
+            "citation": {
+              "id": "SM-P009",
+              "label": "Service manual, page 9 (SM-P009)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 009; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "The technician verified the supply tap was open and the inlet hose was not kinked, then inspected the inlet screen according to the service procedure. A restricted screen was cleaned and the fill test passed.",
+            "citations": [
+              {
+                "id": "QA-1002",
+                "label": "QA-1002",
+                "url": "https://jira.example.invalid/browse/QA-1002"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 58.3
+          },
+          {
+            "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 002; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P002",
+                "label": "Service manual, page 2 (SM-P002)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 43.0
+          },
+          {
+            "text": "The technician checked the drain hose routing for kinks and the accessible filter for lint, following the model service procedure. The restricted hose routing was corrected and the drain test passed.",
+            "citations": [
+              {
+                "id": "QA-1009",
+                "label": "QA-1009",
+                "url": "https://jira.example.invalid/browse/QA-1009"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 21.2
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.4
+      },
+      "round_trip_ms": 2.3
+    },
+    {
+      "name": "Unbalanced spin load",
+      "request": {
+        "name": "Unbalanced spin load",
+        "overview": "Spin speed is not reached with one bulky item in the drum.",
+        "component": "Suspension and load balance",
+        "observations": "Drum tumbles, then slows and reports an unbalanced load."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1003",
+            "kind": "ticket",
+            "title": "Washer will not spin; load imbalance reported",
+            "relevance": 66.8,
+            "citation": {
+              "id": "QA-1003",
+              "label": "QA-1003",
+              "url": "https://jira.example.invalid/browse/QA-1003"
+            },
+            "resolution": "The load was redistributed and the supervised spin test was repeated with a balanced load. The unit reached the expected spin stage.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P003",
+            "kind": "manual",
+            "title": "Suspension and load balance: service observation 003",
+            "relevance": 36.3,
+            "citation": {
+              "id": "SM-P003",
+              "label": "Service manual, page 3 (SM-P003)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 003; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1019",
+            "kind": "ticket",
+            "title": "Washer takes too long to complete spin",
+            "relevance": 31.2,
+            "citation": {
+              "id": "QA-1019",
+              "label": "QA-1019",
+              "url": "https://jira.example.invalid/browse/QA-1019"
+            },
+            "resolution": "The load was redistributed and the technician confirmed the washer was stable and level. The supervised spin test with a balanced load completed within the expected program behavior.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1005",
+            "kind": "ticket",
+            "title": "Washer vibrates excessively during spin",
+            "relevance": 15.6,
+            "citation": {
+              "id": "QA-1005",
+              "label": "QA-1005",
+              "url": "https://jira.example.invalid/browse/QA-1005"
+            },
+            "resolution": "The technician confirmed the transit bolts had been removed, checked that all feet contacted the level floor, and repeated a balanced-load spin test. Vibration was within the service acceptance criteria.",
+            "excerpt": null
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "The load was redistributed and the supervised spin test was repeated with a balanced load. The unit reached the expected spin stage.",
+            "citations": [
+              {
+                "id": "QA-1003",
+                "label": "QA-1003",
+                "url": "https://jira.example.invalid/browse/QA-1003"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 66.8
+          },
+          {
+            "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 003; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P003",
+                "label": "Service manual, page 3 (SM-P003)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 36.3
+          },
+          {
+            "text": "The load was redistributed and the technician confirmed the washer was stable and level. The supervised spin test with a balanced load completed within the expected program behavior.",
+            "citations": [
+              {
+                "id": "QA-1019",
+                "label": "QA-1019",
+                "url": "https://jira.example.invalid/browse/QA-1019"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 31.2
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.2
+      },
+      "round_trip_ms": 2.2
+    },
+    {
+      "name": "Door seal leak",
+      "request": {
+        "name": "Door seal leak",
+        "overview": "Water appears at the lower edge of the door during wash.",
+        "component": "Door seal and latch",
+        "observations": "No leak is seen at rear hoses; visible seal is being inspected."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1004",
+            "kind": "ticket",
+            "title": "Washer leaks from the door during wash",
+            "relevance": 72.5,
+            "citation": {
+              "id": "QA-1004",
+              "label": "QA-1004",
+              "url": "https://jira.example.invalid/browse/QA-1004"
+            },
+            "resolution": "With the unit stopped, the technician inspected the door seal for trapped fabric and visible damage and checked that the door latched evenly. Debris was removed from the seal; the supervised leak test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P004",
+            "kind": "manual",
+            "title": "Door seal and latch: service observation 004",
+            "relevance": 43.2,
+            "citation": {
+              "id": "SM-P004",
+              "label": "Service manual, page 4 (SM-P004)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 004; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1018",
+            "kind": "ticket",
+            "title": "Washer has a musty odor after use",
+            "relevance": 29.0,
+            "citation": {
+              "id": "QA-1018",
+              "label": "QA-1018",
+              "url": "https://jira.example.invalid/browse/QA-1018"
+            },
+            "resolution": "The technician reviewed the model's drum-care instructions, cleaned the visible seal area, and ran the approved maintenance cycle. The odor was no longer present during follow-up.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1016",
+            "kind": "ticket",
+            "title": "Washer door will not latch",
+            "relevance": 27.9,
+            "citation": {
+              "id": "QA-1016",
+              "label": "QA-1016",
+              "url": "https://jira.example.invalid/browse/QA-1016"
+            },
+            "resolution": "The technician inspected the door alignment and latch using the service procedure. The latch striker was adjusted and the interlock test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P007",
+            "kind": "manual",
+            "title": "Door lock: service observation 007",
+            "relevance": 12.9,
+            "citation": {
+              "id": "SM-P007",
+              "label": "Service manual, page 7 (SM-P007)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 007; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "With the unit stopped, the technician inspected the door seal for trapped fabric and visible damage and checked that the door latched evenly. Debris was removed from the seal; the supervised leak test passed.",
+            "citations": [
+              {
+                "id": "QA-1004",
+                "label": "QA-1004",
+                "url": "https://jira.example.invalid/browse/QA-1004"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 72.5
+          },
+          {
+            "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 004; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P004",
+                "label": "Service manual, page 4 (SM-P004)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 43.2
+          },
+          {
+            "text": "The technician reviewed the model's drum-care instructions, cleaned the visible seal area, and ran the approved maintenance cycle. The odor was no longer present during follow-up.",
+            "citations": [
+              {
+                "id": "QA-1018",
+                "label": "QA-1018",
+                "url": "https://jira.example.invalid/browse/QA-1018"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 29.0
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.3
+      },
+      "round_trip_ms": 2.4
+    },
+    {
+      "name": "Drain grinding noise",
+      "request": {
+        "name": "Drain grinding noise",
+        "overview": "Washer makes a grinding noise during the drain phase.",
+        "component": "Drain pump",
+        "observations": "Filter looks clear and there is no visible external leak."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1008",
+            "kind": "ticket",
+            "title": "Washer makes grinding noise during drain",
+            "relevance": 67.0,
+            "citation": {
+              "id": "QA-1008",
+              "label": "QA-1008",
+              "url": "https://jira.example.invalid/browse/QA-1008"
+            },
+            "resolution": "The technician isolated power, checked the accessible filter cavity for foreign objects, and inspected the pump impeller using the approved service procedure. A foreign object was removed and a supervised drain test was quiet.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P008",
+            "kind": "manual",
+            "title": "Drain pump: service observation 008",
+            "relevance": 39.1,
+            "citation": {
+              "id": "SM-P008",
+              "label": "Service manual, page 8 (SM-P008)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 008; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1001",
+            "kind": "ticket",
+            "title": "Washer does not drain and displays E21",
+            "relevance": 31.4,
+            "citation": {
+              "id": "QA-1001",
+              "label": "QA-1001",
+              "url": "https://jira.example.invalid/browse/QA-1001"
+            },
+            "resolution": "With the appliance isolated from power, the technician checked the accessible drain filter and hose for blockage, then ran a supervised drain cycle. The obstruction was removed and the cycle completed.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P001",
+            "kind": "manual",
+            "title": "Drain pump and filter: service observation 001",
+            "relevance": 27.8,
+            "citation": {
+              "id": "SM-P001",
+              "label": "Service manual, page 1 (SM-P001)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 001; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "SM-P009",
+            "kind": "manual",
+            "title": "Drain pump and hose: service observation 009",
+            "relevance": 25.5,
+            "citation": {
+              "id": "SM-P009",
+              "label": "Service manual, page 9 (SM-P009)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 009; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1009",
+            "kind": "ticket",
+            "title": "Washer displays E20 after rinse",
+            "relevance": 22.6,
+            "citation": {
+              "id": "QA-1009",
+              "label": "QA-1009",
+              "url": "https://jira.example.invalid/browse/QA-1009"
+            },
+            "resolution": "The technician checked the drain hose routing for kinks and the accessible filter for lint, following the model service procedure. The restricted hose routing was corrected and the drain test passed.",
+            "excerpt": null
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "The technician isolated power, checked the accessible filter cavity for foreign objects, and inspected the pump impeller using the approved service procedure. A foreign object was removed and a supervised drain test was quiet.",
+            "citations": [
+              {
+                "id": "QA-1008",
+                "label": "QA-1008",
+                "url": "https://jira.example.invalid/browse/QA-1008"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 67.0
+          },
+          {
+            "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 008; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P008",
+                "label": "Service manual, page 8 (SM-P008)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 39.1
+          },
+          {
+            "text": "With the appliance isolated from power, the technician checked the accessible drain filter and hose for blockage, then ran a supervised drain cycle. The obstruction was removed and the cycle completed.",
+            "citations": [
+              {
+                "id": "QA-1001",
+                "label": "QA-1001",
+                "url": "https://jira.example.invalid/browse/QA-1001"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 31.4
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.3
+      },
+      "round_trip_ms": 2.1
+    },
+    {
+      "name": "Musty seal odor",
+      "request": {
+        "name": "Musty seal odor",
+        "overview": "A musty odor is present near the door seal after low-temperature cycles.",
+        "component": "Door seal and drum care",
+        "observations": "No water leak is observed; odor is strongest after the cycle."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1018",
+            "kind": "ticket",
+            "title": "Washer has a musty odor after use",
+            "relevance": 74.2,
+            "citation": {
+              "id": "QA-1018",
+              "label": "QA-1018",
+              "url": "https://jira.example.invalid/browse/QA-1018"
+            },
+            "resolution": "The technician reviewed the model's drum-care instructions, cleaned the visible seal area, and ran the approved maintenance cycle. The odor was no longer present during follow-up.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P004",
+            "kind": "manual",
+            "title": "Door seal and latch: service observation 004",
+            "relevance": 31.3,
+            "citation": {
+              "id": "SM-P004",
+              "label": "Service manual, page 4 (SM-P004)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 004; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1004",
+            "kind": "ticket",
+            "title": "Washer leaks from the door during wash",
+            "relevance": 31.1,
+            "citation": {
+              "id": "QA-1004",
+              "label": "QA-1004",
+              "url": "https://jira.example.invalid/browse/QA-1004"
+            },
+            "resolution": "With the unit stopped, the technician inspected the door seal for trapped fabric and visible damage and checked that the door latched evenly. Debris was removed from the seal; the supervised leak test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1007",
+            "kind": "ticket",
+            "title": "Washer door remains locked after cycle",
+            "relevance": 16.5,
+            "citation": {
+              "id": "QA-1007",
+              "label": "QA-1007",
+              "url": "https://jira.example.invalid/browse/QA-1007"
+            },
+            "resolution": "The technician waited for the normal release delay and confirmed the drum was empty and drained. The model-specific door-lock diagnostic procedure identified a sticking latch; the latch assembly was serviced and release was verified.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P007",
+            "kind": "manual",
+            "title": "Door lock: service observation 007",
+            "relevance": 12.0,
+            "citation": {
+              "id": "SM-P007",
+              "label": "Service manual, page 7 (SM-P007)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 007; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "The technician reviewed the model's drum-care instructions, cleaned the visible seal area, and ran the approved maintenance cycle. The odor was no longer present during follow-up.",
+            "citations": [
+              {
+                "id": "QA-1018",
+                "label": "QA-1018",
+                "url": "https://jira.example.invalid/browse/QA-1018"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 74.2
+          },
+          {
+            "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 004; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P004",
+                "label": "Service manual, page 4 (SM-P004)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 31.3
+          },
+          {
+            "text": "With the unit stopped, the technician inspected the door seal for trapped fabric and visible damage and checked that the door latched evenly. Debris was removed from the seal; the supervised leak test passed.",
+            "citations": [
+              {
+                "id": "QA-1004",
+                "label": "QA-1004",
+                "url": "https://jira.example.invalid/browse/QA-1004"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 31.1
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.2
+      },
+      "round_trip_ms": 2.1
+    },
+    {
+      "name": "Overfill during intake",
+      "request": {
+        "name": "Overfill during intake",
+        "overview": "Water continues entering beyond the expected fill level.",
+        "component": "Water-level sensing",
+        "observations": "Test was stopped for safety; record the fill level and stage."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1012",
+            "kind": "ticket",
+            "title": "Washer overfills during water intake",
+            "relevance": 75.1,
+            "citation": {
+              "id": "QA-1012",
+              "label": "QA-1012",
+              "url": "https://jira.example.invalid/browse/QA-1012"
+            },
+            "resolution": "The technician stopped the test, isolated the water supply, and followed the model-specific water-level diagnostic procedure. A restricted pressure-sensing tube was cleared and the controlled fill test passed.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1020",
+            "kind": "ticket",
+            "title": "Water remains in detergent compartment after fill",
+            "relevance": 15.5,
+            "citation": {
+              "id": "QA-1020",
+              "label": "QA-1020",
+              "url": "https://jira.example.invalid/browse/QA-1020"
+            },
+            "resolution": "The technician cleaned the removable dispenser insert according to the model manual and checked the accessible inlet channels for residue. A supervised fill test confirmed normal flow through each compartment.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P002",
+            "kind": "manual",
+            "title": "Water inlet valve and hose: service observation 002",
+            "relevance": 12.1,
+            "citation": {
+              "id": "SM-P002",
+              "label": "Service manual, page 2 (SM-P002)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 002; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          },
+          {
+            "id": "QA-1019",
+            "kind": "ticket",
+            "title": "Washer takes too long to complete spin",
+            "relevance": 10.9,
+            "citation": {
+              "id": "QA-1019",
+              "label": "QA-1019",
+              "url": "https://jira.example.invalid/browse/QA-1019"
+            },
+            "resolution": "The load was redistributed and the technician confirmed the washer was stable and level. The supervised spin test with a balanced load completed within the expected program behavior.",
+            "excerpt": null
+          },
+          {
+            "id": "SM-P010",
+            "kind": "manual",
+            "title": "Dispenser drawer: service observation 010",
+            "relevance": 10.2,
+            "citation": {
+              "id": "SM-P010",
+              "label": "Service manual, page 10 (SM-P010)",
+              "url": null
+            },
+            "resolution": null,
+            "excerpt": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 010; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only."
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "The technician stopped the test, isolated the water supply, and followed the model-specific water-level diagnostic procedure. A restricted pressure-sensing tube was cleared and the controlled fill test passed.",
+            "citations": [
+              {
+                "id": "QA-1012",
+                "label": "QA-1012",
+                "url": "https://jira.example.invalid/browse/QA-1012"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 75.1
+          },
+          {
+            "text": "The technician cleaned the removable dispenser insert according to the model manual and checked the accessible inlet channels for residue. A supervised fill test confirmed normal flow through each compartment.",
+            "citations": [
+              {
+                "id": "QA-1020",
+                "label": "QA-1020",
+                "url": "https://jira.example.invalid/browse/QA-1020"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 15.5
+          },
+          {
+            "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 002; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+            "citations": [
+              {
+                "id": "SM-P002",
+                "label": "Service manual, page 2 (SM-P002)",
+                "url": null
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 12.1
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.2
+      },
+      "round_trip_ms": 2.3
+    },
+    {
+      "name": "Excess suds",
+      "request": {
+        "name": "Excess suds",
+        "overview": "Excessive foam is visible in the drum and rinse takes longer.",
+        "component": "Detergent and wash system",
+        "observations": "The selected detergent dose may be above label guidance."
+      },
+      "response": {
+        "matches": [
+          {
+            "id": "QA-1013",
+            "kind": "ticket",
+            "title": "Excessive suds appear during wash",
+            "relevance": 69.5,
+            "citation": {
+              "id": "QA-1013",
+              "label": "QA-1013",
+              "url": "https://jira.example.invalid/browse/QA-1013"
+            },
+            "resolution": "The technician ran the model's approved rinse procedure and verified the recommended detergent type and dose with the user. A follow-up cycle completed without excess foam.",
+            "excerpt": null
+          },
+          {
+            "id": "QA-1017",
+            "kind": "ticket",
+            "title": "Washer leaves detergent residue on clothing",
+            "relevance": 25.4,
+            "citation": {
+              "id": "QA-1017",
+              "label": "QA-1017",
+              "url": "https://jira.example.invalid/browse/QA-1017"
+            },
+            "resolution": "The removable drawer parts were cleaned according to the manual and the detergent dose and program selection were checked. A supervised rinse test completed without visible residue.",
+            "excerpt": null
+          }
+        ],
+        "suggestions": [
+          {
+            "text": "The technician ran the model's approved rinse procedure and verified the recommended detergent type and dose with the user. A follow-up cycle completed without excess foam.",
+            "citations": [
+              {
+                "id": "QA-1013",
+                "label": "QA-1013",
+                "url": "https://jira.example.invalid/browse/QA-1013"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 69.5
+          },
+          {
+            "text": "The removable drawer parts were cleaned according to the manual and the detergent dose and program selection were checked. A supervised rinse test completed without visible residue.",
+            "citations": [
+              {
+                "id": "QA-1017",
+                "label": "QA-1017",
+                "url": "https://jira.example.invalid/browse/QA-1017"
+              }
+            ],
+            "groundedness": 100,
+            "relevance": 25.4
+          }
+        ],
+        "model": {
+          "mode": "extractive",
+          "notice": "Local model is not configured; showing exact source excerpts."
+        },
+        "can_create": false,
+        "elapsed_ms": 1.3
+      },
+      "round_trip_ms": 2.1
+    },
+    {
+      "name": "New smart-home pairing issue",
+      "request": {
+        "name": "New smart-home pairing issue",
+        "overview": "Smart-home Matter bridge QR onboarding fails on washer registration.",
+        "component": "Wireless connectivity module",
+        "observations": "Mobile companion times out during BLE commissioning after a gateway replacement."
+      },
+      "response": {
+        "matches": [],
+        "suggestions": [],
+        "model": {
+          "mode": "extractive",
+          "notice": "No evidence crossed the relevance threshold; no suggestion was generated."
+        },
+        "can_create": true,
+        "elapsed_ms": 1.2
+      },
+      "round_trip_ms": 2.2
+    },
+    {
+      "name": "New accessibility preference issue",
+      "request": {
+        "name": "New accessibility preference issue",
+        "overview": "Washer accessibility voice-over setting resets after reboot.",
+        "component": "Accessibility preferences",
+        "observations": "Screen-reader spoken labels disappear after restart; user-interface preference does not persist."
+      },
+      "response": {
+        "matches": [],
+        "suggestions": [],
+        "model": {
+          "mode": "extractive",
+          "notice": "No evidence crossed the relevance threshold; no suggestion was generated."
+        },
+        "can_create": true,
+        "elapsed_ms": 1.3
+      },
+      "round_trip_ms": 2.2
+    }
+  ]
+}

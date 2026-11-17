@@ -89,6 +89,96 @@
       "resolution": "The dispenser drawer and removable siphon insert were cleaned according to the manual and reinstalled. A supervised fill test confirmed water flowed through the compartment.",
       "status": "Resolved",
       "url": "https://jira.example.invalid/browse/QA-1010"
+    },
+    {
+      "id": "QA-1011",
+      "summary": "Washer does not power on",
+      "component": "Power and control panel",
+      "observed": "The display remains blank and the unit does not respond to the power button. The outlet is reported to work with another device.",
+      "resolution": "A qualified technician followed the model-specific power and control diagnostic procedure. With power isolated, a loose internal connection was corrected and the startup test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1011"
+    },
+    {
+      "id": "QA-1012",
+      "summary": "Washer overfills during water intake",
+      "component": "Water-level sensing",
+      "observed": "Water continues entering beyond the expected fill level and the cycle is stopped for safety.",
+      "resolution": "The technician stopped the test, isolated the water supply, and followed the model-specific water-level diagnostic procedure. A restricted pressure-sensing tube was cleared and the controlled fill test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1012"
+    },
+    {
+      "id": "QA-1013",
+      "summary": "Excessive suds appear during wash",
+      "component": "Detergent and wash system",
+      "observed": "Foam is visible in the drum window and the rinse phase takes longer than usual. The selected detergent dose was above the label guidance.",
+      "resolution": "The technician ran the model's approved rinse procedure and verified the recommended detergent type and dose with the user. A follow-up cycle completed without excess foam.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1013"
+    },
+    {
+      "id": "QA-1014",
+      "summary": "Washer pauses repeatedly during cycle",
+      "component": "Control system",
+      "observed": "The cycle pauses at different stages without a displayed error code. Restarting resumes the cycle temporarily.",
+      "resolution": "The technician recorded the pause sequence and checked the model-specific diagnostic history. An intermittent control connection was repaired with power isolated and repeated cycle tests completed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1014"
+    },
+    {
+      "id": "QA-1015",
+      "summary": "Washer drum does not tumble during wash",
+      "component": "Drive system",
+      "observed": "Water fills normally but the drum does not turn during the wash phase. No unusual sound is reported.",
+      "resolution": "A qualified technician used the model-specific drive-system diagnostic procedure. A loose drive connection was corrected with power isolated and the supervised tumble test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1015"
+    },
+    {
+      "id": "QA-1016",
+      "summary": "Washer door will not latch",
+      "component": "Door latch and lock",
+      "observed": "The door closes but the program will not start and the door-lock indicator does not illuminate.",
+      "resolution": "The technician inspected the door alignment and latch using the service procedure. The latch striker was adjusted and the interlock test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1016"
+    },
+    {
+      "id": "QA-1017",
+      "summary": "Washer leaves detergent residue on clothing",
+      "component": "Dispenser and rinse system",
+      "observed": "Powder residue remains on dark garments after a normal cycle. The dispenser drawer has visible detergent buildup.",
+      "resolution": "The removable drawer parts were cleaned according to the manual and the detergent dose and program selection were checked. A supervised rinse test completed without visible residue.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1017"
+    },
+    {
+      "id": "QA-1018",
+      "summary": "Washer has a musty odor after use",
+      "component": "Door seal and drum care",
+      "observed": "A musty smell is noticed at the door seal after several low-temperature cycles. No water leak is observed.",
+      "resolution": "The technician reviewed the model's drum-care instructions, cleaned the visible seal area, and ran the approved maintenance cycle. The odor was no longer present during follow-up.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1018"
+    },
+    {
+      "id": "QA-1019",
+      "summary": "Washer takes too long to complete spin",
+      "component": "Load balance and spin control",
+      "observed": "The spin phase repeatedly slows and extends its remaining time with a small mixed load.",
+      "resolution": "The load was redistributed and the technician confirmed the washer was stable and level. The supervised spin test with a balanced load completed within the expected program behavior.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1019"
+    },
+    {
+      "id": "QA-1020",
+      "summary": "Water remains in detergent compartment after fill",
+      "component": "Dispenser drawer and inlet flow",
+      "observed": "The main wash compartment retains water after the fill stage. The softener compartment appears normal.",
+      "resolution": "The technician cleaned the removable dispenser insert according to the model manual and checked the accessible inlet channels for residue. A supervised fill test confirmed normal flow through each compartment.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1020"
     }
   ]
 }

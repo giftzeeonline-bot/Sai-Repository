@@ -17,6 +17,23 @@ The sample Jira records and service manual are fictional. The generator creates
 used by the prototype. Python 3.10+; core app and generator use only the standard
 library. Run checks with `python3 -m unittest discover -s tests`.
 
+To run a deterministic end-to-end batch against the live HTTP API and save all
+10 requests and responses, run:
+
+```bash
+python3 scripts/run_demo.py
+```
+
+Inputs are in `data/demo_queries.json`; captured API output is in
+`data/demo_responses.json`. The demo starts and stops its own local server and
+forces extractive mode so the saved responses are repeatable.
+
+## Diagrams
+
+![Local support triage architecture](images/architecture.svg)
+
+![Evidence search and Jira creation flow](images/workflow.svg)
+
 ### Optional local model
 
 Install Ollama separately, pull a small instruction model that fits the machine

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Local washing-machine support triage architecture</title>
+  <desc id="desc">A local browser sends queries to a local API, which searches Jira tickets and service manual chunks, optionally uses Ollama, then displays cited results and may create a Jira issue.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#46627f"/>
+    </marker>
+    <style>
+      .title { font: 700 26px sans-serif; fill: #142d4e; }
+      .label { font: 700 17px sans-serif; fill: #142d4e; }
+      .sub { font: 14px sans-serif; fill: #344967; }
+      .flow { stroke: #46627f; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .node { stroke: #7390af; stroke-width: 2; rx: 14; }
+    </style>
+  </defs>
+  <rect width="1200" height="620" fill="#f3f6fb"/>
+  <text x="54" y="58" class="title">Local support triage architecture</text>
+  <rect x="50" y="115" width="220" height="125" class="node" fill="#e6f1fd"/>
+  <text x="75" y="155" class="label">Support / QA UI</text>
+  <text x="75" y="185" class="sub">Overview, component,</text>
+  <text x="75" y="207" class="sub">testing observations</text>
+  <rect x="350" y="115" width="250" height="125" class="node" fill="#e5f4ed"/>
+  <text x="376" y="155" class="label">Local API</text>
+  <text x="376" y="185" class="sub">Validation and TF-IDF</text>
+  <text x="376" y="207" class="sub">cosine retrieval</text>
+  <rect x="690" y="82" width="245" height="115" class="node" fill="#fff2d6"/>
+  <text x="716" y="122" class="label">Resolved Jira tickets</text>
+  <text x="716" y="152" class="sub">Issue history + resolution</text>
+  <rect x="690" y="230" width="245" height="115" class="node" fill="#fff2d6"/>
+  <text x="716" y="270" class="label">Service manual</text>
+  <text x="716" y="300" class="sub">Page-indexed evidence</text>
+  <rect x="690" y="390" width="245" height="115" class="node" fill="#eee9fb"/>
+  <text x="716" y="430" class="label">Optional local Ollama</text>
+  <text x="716" y="460" class="sub">Exact quote selection only</text>
+  <rect x="980" y="115" width="185" height="125" class="node" fill="#e6f1fd"/>
+  <text x="1003" y="155" class="label">Cited results</text>
+  <text x="1003" y="185" class="sub">Similarity score,</text>
+  <text x="1003" y="207" class="sub">source and excerpts</text>
+  <rect x="980" y="345" width="185" height="125" class="node" fill="#fde9e6"/>
+  <text x="1003" y="385" class="label">Jira create</text>
+  <text x="1003" y="415" class="sub">User action only;</text>
+  <text x="1003" y="437" class="sub">duplicate checked</text>
+  <path d="M270 178 H344" class="flow"/>
+  <path d="M600 150 H682" class="flow"/>
+  <path d="M600 205 C640 205 640 286 682 286" class="flow"/>
+  <path d="M600 220 C650 260 630 445 682 445" class="flow"/>
+  <path d="M935 145 H972" class="flow"/>
+  <path d="M1072 240 V337" class="flow"/>
+  <text x="50" y="570" class="sub">All retrieval and model inference stay local. Jira is contacted only after explicit user confirmation.</text>
+</svg>

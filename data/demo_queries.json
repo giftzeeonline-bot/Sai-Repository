@@ -1,0 +1,64 @@
+{
+  "queries": [
+    {
+      "name": "E21 drain failure",
+      "overview": "Washer stops before spin and displays E21; water remains in drum.",
+      "component": "Drain pump and filter",
+      "observations": "Cycle stops after drain phase. Accessible filter appears clear."
+    },
+    {
+      "name": "Slow fill E10",
+      "overview": "Washer fills slowly and reports inlet error E10.",
+      "component": "Water inlet valve and hose",
+      "observations": "Little water enters during fill; hose routing is being checked."
+    },
+    {
+      "name": "Unbalanced spin load",
+      "overview": "Spin speed is not reached with one bulky item in the drum.",
+      "component": "Suspension and load balance",
+      "observations": "Drum tumbles, then slows and reports an unbalanced load."
+    },
+    {
+      "name": "Door seal leak",
+      "overview": "Water appears at the lower edge of the door during wash.",
+      "component": "Door seal and latch",
+      "observations": "No leak is seen at rear hoses; visible seal is being inspected."
+    },
+    {
+      "name": "Drain grinding noise",
+      "overview": "Washer makes a grinding noise during the drain phase.",
+      "component": "Drain pump",
+      "observations": "Filter looks clear and there is no visible external leak."
+    },
+    {
+      "name": "Musty seal odor",
+      "overview": "A musty odor is present near the door seal after low-temperature cycles.",
+      "component": "Door seal and drum care",
+      "observations": "No water leak is observed; odor is strongest after the cycle."
+    },
+    {
+      "name": "Overfill during intake",
+      "overview": "Water continues entering beyond the expected fill level.",
+      "component": "Water-level sensing",
+      "observations": "Test was stopped for safety; record the fill level and stage."
+    },
+    {
+      "name": "Excess suds",
+      "overview": "Excessive foam is visible in the drum and rinse takes longer.",
+      "component": "Detergent and wash system",
+      "observations": "The selected detergent dose may be above label guidance."
+    },
+    {
+      "name": "New smart-home pairing issue",
+      "overview": "Smart-home Matter bridge QR onboarding fails on washer registration.",
+      "component": "Wireless connectivity module",
+      "observations": "Mobile companion times out during BLE commissioning after a gateway replacement."
+    },
+    {
+      "name": "New accessibility preference issue",
+      "overview": "Washer accessibility voice-over setting resets after reboot.",
+      "component": "Accessibility preferences",
+      "observations": "Screen-reader spoken labels disappear after restart; user-interface preference does not persist."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Support issue evidence and Jira workflow</title>
+  <desc id="desc">The QA query is matched to prior tickets and manual pages. Relevant evidence is cited; otherwise the user can create a Jira ticket after reviewing the query.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#46627f"/>
+    </marker>
+    <style>
+      .title { font: 700 26px sans-serif; fill: #142d4e; }
+      .label { font: 700 16px sans-serif; fill: #142d4e; }
+      .sub { font: 14px sans-serif; fill: #344967; }
+      .flow { stroke: #46627f; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .node { stroke: #7390af; stroke-width: 2; rx: 14; }
+    </style>
+  </defs>
+  <rect width="1200" height="500" fill="#f3f6fb"/>
+  <text x="48" y="55" class="title">Evidence-first support workflow</text>
+  <rect x="45" y="135" width="190" height="110" class="node" fill="#e6f1fd"/>
+  <text x="68" y="177" class="label">1. QA enters issue</text>
+  <text x="68" y="207" class="sub">Overview + observations</text>
+  <rect x="290" y="135" width="195" height="110" class="node" fill="#e5f4ed"/>
+  <text x="312" y="177" class="label">2. Search evidence</text>
+  <text x="312" y="207" class="sub">Local ranked retrieval</text>
+  <polygon points="605,112 700,190 605,268 510,190" fill="#fff2d6" stroke="#c8a95c" stroke-width="2"/>
+  <text x="553" y="185" class="label">Relevant</text>
+  <text x="570" y="207" class="label">source?</text>
+  <rect x="770" y="80" width="245" height="110" class="node" fill="#e6f1fd"/>
+  <text x="794" y="122" class="label">3a. Review citations</text>
+  <text x="794" y="152" class="sub">Prior ticket / manual page</text>
+  <rect x="770" y="275" width="245" height="110" class="node" fill="#fde9e6"/>
+  <text x="794" y="317" class="label">3b. Review new issue</text>
+  <text x="794" y="347" class="sub">No relevant prior ticket</text>
+  <rect x="1045" y="275" width="130" height="110" class="node" fill="#eee9fb"/>
+  <text x="1065" y="317" class="label">4. Create</text>
+  <text x="1065" y="347" class="sub">Jira on click</text>
+  <path d="M235 190 H282" class="flow"/>
+  <path d="M485 190 H502" class="flow"/>
+  <path d="M700 165 C730 155 730 135 762 135" class="flow"/>
+  <path d="M605 268 V330 H762" class="flow"/>
+  <path d="M1015 330 H1037" class="flow"/>
+  <text x="725" y="112" class="sub">yes</text>
+  <text x="617" y="302" class="sub">no</text>
+  <text x="45" y="450" class="sub">No generated repair facts: suggestions quote validated source text. Similarity is not a correctness probability.</text>
+</svg>
