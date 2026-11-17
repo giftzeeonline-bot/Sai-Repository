@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Washing Machine Support Triage</title>
+  <style>
+    :root { color-scheme: light; font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #17233b; background: #f3f6fb; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    header { background: #132d50; color: white; padding: 24px max(24px, calc((100% - 1040px) / 2)); }
+    header h1 { margin: 0 0 6px; font-size: 1.4rem; }
+    header p { margin: 0; color: #d3e2f5; }
+    main { max-width: 1040px; margin: 28px auto; padding: 0 20px 48px; }
+    .panel, .result { background: white; border: 1px solid #dce4ef; border-radius: 12px; padding: 20px; margin-bottom: 16px; box-shadow: 0 2px 8px #132d500a; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    label { display: block; font-weight: 650; margin-bottom: 7px; }
+    textarea, input { width: 100%; padding: 11px 12px; border: 1px solid #bbc9db; border-radius: 7px; font: inherit; color: inherit; }
+    textarea { min-height: 100px; resize: vertical; }
+    .wide { grid-column: 1 / -1; }
+    button { border: 0; background: #1763b1; color: white; padding: 11px 17px; font: inherit; font-weight: 650; border-radius: 7px; cursor: pointer; }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+    button.secondary { background: #344967; }
+    .status, .muted { color: #52657e; font-size: .92rem; }
+    .notice { padding: 11px 13px; border-radius: 7px; background: #fff6db; border: 1px solid #f0dfab; margin: 12px 0; }
+    .error { color: #a12424; }
+    .result h3 { margin: 0 0 7px; }
+    .badge { display: inline-block; font-size: .8rem; color: #164b80; background: #e8f2fd; border-radius: 99px; padding: 4px 8px; margin-right: 6px; }
+    .evidence { border-top: 1px solid #e8edf4; padding-top: 12px; margin-top: 12px; line-height: 1.5; }
+    .evidence a { color: #145da0; font-weight: 650; }
+    #create-panel[hidden], #results[hidden] { display: none; }
+    @media (max-width: 700px) { .grid { grid-template-columns: 1fr; } .wide { grid-column: auto; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Washing Machine Support Triage</h1>
+    <p>Search resolved Jira tickets and service-manual pages before raising a new issue.</p>
+  </header>
+  <main>
+    <section class="panel">
+      <p class="status" id="system-status">Checking local services…</p>
+      <form id="search-form" class="grid">
+        <div class="wide">
+          <label for="overview">Issue overview</label>
+          <textarea id="overview" required maxlength="5000" placeholder="Describe the issue, error code, and when it occurs"></textarea>
+        </div>
+        <div>
+          <label for="component">Component</label>
+          <input id="component" maxlength="5000" placeholder="e.g. Drain pump and filter">
+        </div>
+        <div>
+          <label for="observations">Testing observations</label>
+          <textarea id="observations" maxlength="5000" placeholder="What did QA observe or test?"></textarea>
+        </div>
+        <div class="wide">
+          <button id="search-button" type="submit">Search evidence</button>
+          <span class="status" id="search-status"></span>
+        </div>
+      </form>
+    </section>
+    <section id="results" hidden>
+      <div id="result-summary" class="panel"></div>
+      <div id="matches"></div>
+      <div id="suggestions"></div>
+    </section>
+    <section id="create-panel" class="panel" hidden>
+      <h2>Raise a new Jira issue</h2>
+      <p class="status">No previous Jira ticket crossed the relevance threshold. Review the search first; Jira is created only when you choose this action.</p>
+      <button id="create-button" class="secondary" type="button">Create Jira Bug</button>
+      <span id="jira-status" class="status"></span>
+    </section>
+  </main>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    let lastSearch = null;
+    function element(tag, text, className) {
+      const node = document.createElement(tag);
+      if (text !== undefined) node.textContent = text;
+      if (className) node.className = className;
+      return node;
+    }
+    async function request(url, options) {
+      const response = await fetch(url, options);
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.error || `Request failed (${response.status})`);
+      return data;
+    }
+    async function loadStatus() {
+      try {
+        const status = await request("/api/status");
+        $("system-status").textContent =
+          `${status.corpus_size} local evidence records · ` +
+          `local model ${status.model_configured ? "configured" : "not configured (extractive mode)"} · ` +
+          `Jira ${status.jira_configured ? "configured" : "not configured"}`;
+      } catch (error) {
+        $("system-status").textContent = error.message;
+        $("system-status").classList.add("error");
+      }
+    }
+    $("search-form").addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const button = $("search-button");
+      button.disabled = true;
+      $("search-status").textContent = "Searching local evidence…";
+      $("create-panel").hidden = true;
+      $("results").hidden = true;
+      lastSearch = {
+        overview: $("overview").value.trim(),
+        component: $("component").value.trim(),
+        observations: $("observations").value.trim()
+      };
+      try {
+        const data = await request("/api/search", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(lastSearch)
+        });
+        $("results").hidden = false;
+        const summary = $("result-summary");
+        summary.replaceChildren();
+        summary.append(element("strong", `${data.matches.length} relevant evidence record(s)`));
+        summary.append(element("div", `Local search + model time: ${data.elapsed_ms} ms. Relevance is similarity, not correctness.`, "status"));
+        if (data.model.notice) summary.append(element("div", data.model.notice, "notice"));
+
+        const matches = $("matches");
+        matches.replaceChildren();
+        for (const match of data.matches) {
+          const card = element("article", undefined, "result");
+          const title = element("h3", match.title);
+          card.append(title);
+          card.append(element("span", `${match.kind === "ticket" ? "Previous Jira" : "Service manual"} · ${match.relevance}% relevance`, "badge"));
+          const link = match.citation.url
+            ? Object.assign(element("a", match.citation.label), { href: match.citation.url, target: "_blank", rel: "noreferrer" })
+            : element("strong", match.citation.label);
+          const citationLine = element("div", undefined, "evidence");
+          citationLine.append(link);
+          card.append(citationLine);
+          if (match.resolution) card.append(element("p", `Recorded resolution: ${match.resolution}`));
+          if (match.excerpt) card.append(element("p", match.excerpt));
+          matches.append(card);
+        }
+        const suggestions = $("suggestions");
+        suggestions.replaceChildren();
+        for (const suggestion of data.suggestions) {
+          const card = element("article", undefined, "result");
+          card.append(element("h3", "Evidence-based suggestion"));
+          card.append(element("span", `${suggestion.relevance}% relevance · ${suggestion.groundedness}% quote-verified`, "badge"));
+          card.append(element("p", suggestion.text));
+          const refs = suggestion.citations.map((ref) => ref.label).join(", ");
+          card.append(element("div", `Citation: ${refs}`, "status"));
+          suggestions.append(card);
+        }
+        $("create-panel").hidden = !data.can_create;
+        $("search-status").textContent = "";
+      } catch (error) {
+        $("search-status").textContent = error.message;
+        $("search-status").classList.add("error");
+      } finally {
+        button.disabled = false;
+      }
+    });
+    $("create-button").addEventListener("click", async () => {
+      const button = $("create-button");
+      button.disabled = true;
+      $("jira-status").textContent = "Creating issue…";
+      $("jira-status").classList.remove("error");
+      try {
+        const created = await request("/api/jira", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(lastSearch)
+        });
+        $("jira-status").replaceChildren(
+          element("span", `Created ${created.key}: `),
+          Object.assign(element("a", created.url), { href: created.url, target: "_blank", rel: "noreferrer" })
+        );
+      } catch (error) {
+        $("jira-status").textContent = error.message;
+        $("jira-status").classList.add("error");
+      } finally {
+        button.disabled = false;
+      }
+    });
+    loadStatus();
+  </script>
+</body>
+</html>

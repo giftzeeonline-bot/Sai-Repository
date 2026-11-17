@@ -1,0 +1,94 @@
+{
+  "tickets": [
+    {
+      "id": "QA-1001",
+      "summary": "Washer does not drain and displays E21",
+      "component": "Drain pump and filter",
+      "observed": "Cycle stops before spin. Water remains in the drum. E21 appears after the drain phase.",
+      "resolution": "With the appliance isolated from power, the technician checked the accessible drain filter and hose for blockage, then ran a supervised drain cycle. The obstruction was removed and the cycle completed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1001"
+    },
+    {
+      "id": "QA-1002",
+      "summary": "Washer fills slowly; inlet error E10",
+      "component": "Water inlet valve and hose",
+      "observed": "The inlet phase times out and E10 is displayed. The drum receives little water.",
+      "resolution": "The technician verified the supply tap was open and the inlet hose was not kinked, then inspected the inlet screen according to the service procedure. A restricted screen was cleaned and the fill test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1002"
+    },
+    {
+      "id": "QA-1003",
+      "summary": "Washer will not spin; load imbalance reported",
+      "component": "Suspension and load balance",
+      "observed": "The drum tumbles but spin speed is not reached. The display reports an unbalanced load with a single bulky item.",
+      "resolution": "The load was redistributed and the supervised spin test was repeated with a balanced load. The unit reached the expected spin stage.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1003"
+    },
+    {
+      "id": "QA-1004",
+      "summary": "Washer leaks from the door during wash",
+      "component": "Door seal and latch",
+      "observed": "A small amount of water appears at the lower door edge during wash. No leak is seen at the rear hoses.",
+      "resolution": "With the unit stopped, the technician inspected the door seal for trapped fabric and visible damage and checked that the door latched evenly. Debris was removed from the seal; the supervised leak test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1004"
+    },
+    {
+      "id": "QA-1005",
+      "summary": "Washer vibrates excessively during spin",
+      "component": "Installation and suspension",
+      "observed": "The cabinet moves during high-speed spin on a hard floor. No error code is shown.",
+      "resolution": "The technician confirmed the transit bolts had been removed, checked that all feet contacted the level floor, and repeated a balanced-load spin test. Vibration was within the service acceptance criteria.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1005"
+    },
+    {
+      "id": "QA-1006",
+      "summary": "Washer does not heat water; cycle runs cold",
+      "component": "Heating system",
+      "observed": "A warm-cycle test completes but the water remains cold. No heating error is displayed.",
+      "resolution": "A qualified technician followed the model-specific service procedure and diagnostic checks for the heating circuit. The temperature sensor connection was reseated with power isolated and the controlled temperature-rise test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1006"
+    },
+    {
+      "id": "QA-1007",
+      "summary": "Washer door remains locked after cycle",
+      "component": "Door lock",
+      "observed": "The program has ended, but the door-lock indicator remains on and the door does not release.",
+      "resolution": "The technician waited for the normal release delay and confirmed the drum was empty and drained. The model-specific door-lock diagnostic procedure identified a sticking latch; the latch assembly was serviced and release was verified.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1007"
+    },
+    {
+      "id": "QA-1008",
+      "summary": "Washer makes grinding noise during drain",
+      "component": "Drain pump",
+      "observed": "A grinding noise occurs only during the drain phase. The filter appears clear and there is no visible external leak.",
+      "resolution": "The technician isolated power, checked the accessible filter cavity for foreign objects, and inspected the pump impeller using the approved service procedure. A foreign object was removed and a supervised drain test was quiet.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1008"
+    },
+    {
+      "id": "QA-1009",
+      "summary": "Washer displays E20 after rinse",
+      "component": "Drain pump and hose",
+      "observed": "E20 appears after rinse and water remains in the drum. Drain flow is weaker than normal.",
+      "resolution": "The technician checked the drain hose routing for kinks and the accessible filter for lint, following the model service procedure. The restricted hose routing was corrected and the drain test passed.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1009"
+    },
+    {
+      "id": "QA-1010",
+      "summary": "Washer detergent drawer retains water",
+      "component": "Dispenser drawer",
+      "observed": "Water is left in the softener compartment after the wash. The drawer does not overflow.",
+      "resolution": "The dispenser drawer and removable siphon insert were cleaned according to the manual and reinstalled. A supervised fill test confirmed water flowed through the compartment.",
+      "status": "Resolved",
+      "url": "https://jira.example.invalid/browse/QA-1010"
+    }
+  ]
+}

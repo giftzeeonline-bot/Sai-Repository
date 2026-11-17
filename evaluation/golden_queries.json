@@ -1,0 +1,24 @@
+{
+  "queries": [
+    {
+      "query": "drum does not drain, E21, water remains, drain filter",
+      "expected_ticket_ids": ["QA-1001"],
+      "expected_manual_ids": ["SM-P001"]
+    },
+    {
+      "query": "slow fill and inlet error E10, hose kink",
+      "expected_ticket_ids": ["QA-1002"],
+      "expected_manual_ids": ["SM-P002"]
+    },
+    {
+      "query": "door leaks at lower edge during wash, inspect seal",
+      "expected_ticket_ids": ["QA-1004"],
+      "expected_manual_ids": ["SM-P004"]
+    },
+    {
+      "query": "softener compartment retains water in detergent drawer",
+      "expected_ticket_ids": ["QA-1010"],
+      "expected_manual_ids": ["SM-P010"]
+    }
+  ]
+}

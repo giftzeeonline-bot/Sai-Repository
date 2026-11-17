@@ -1,0 +1,1404 @@
+{
+  "pages": [
+    {
+      "id": "SM-P001",
+      "page": 1,
+      "title": "Drain pump and filter: service observation 001",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 001; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P002",
+      "page": 2,
+      "title": "Water inlet valve and hose: service observation 002",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 002; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P003",
+      "page": 3,
+      "title": "Suspension and load balance: service observation 003",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 003; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P004",
+      "page": 4,
+      "title": "Door seal and latch: service observation 004",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 004; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P005",
+      "page": 5,
+      "title": "Installation and suspension: service observation 005",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 005; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P006",
+      "page": 6,
+      "title": "Heating system: service observation 006",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 006; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P007",
+      "page": 7,
+      "title": "Door lock: service observation 007",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 007; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P008",
+      "page": 8,
+      "title": "Drain pump: service observation 008",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 008; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P009",
+      "page": 9,
+      "title": "Drain pump and hose: service observation 009",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 009; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P010",
+      "page": 10,
+      "title": "Dispenser drawer: service observation 010",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 010; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P011",
+      "page": 11,
+      "title": "Drain pump and filter: service observation 011",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 011; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P012",
+      "page": 12,
+      "title": "Water inlet valve and hose: service observation 012",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 012; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P013",
+      "page": 13,
+      "title": "Suspension and load balance: service observation 013",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 013; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P014",
+      "page": 14,
+      "title": "Door seal and latch: service observation 014",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 014; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P015",
+      "page": 15,
+      "title": "Installation and suspension: service observation 015",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 015; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P016",
+      "page": 16,
+      "title": "Heating system: service observation 016",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 016; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P017",
+      "page": 17,
+      "title": "Door lock: service observation 017",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 017; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P018",
+      "page": 18,
+      "title": "Drain pump: service observation 018",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 018; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P019",
+      "page": 19,
+      "title": "Drain pump and hose: service observation 019",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 019; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P020",
+      "page": 20,
+      "title": "Dispenser drawer: service observation 020",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 020; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P021",
+      "page": 21,
+      "title": "Drain pump and filter: service observation 021",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 021; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P022",
+      "page": 22,
+      "title": "Water inlet valve and hose: service observation 022",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 022; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P023",
+      "page": 23,
+      "title": "Suspension and load balance: service observation 023",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 023; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P024",
+      "page": 24,
+      "title": "Door seal and latch: service observation 024",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 024; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P025",
+      "page": 25,
+      "title": "Installation and suspension: service observation 025",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 025; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P026",
+      "page": 26,
+      "title": "Heating system: service observation 026",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 026; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P027",
+      "page": 27,
+      "title": "Door lock: service observation 027",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 027; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P028",
+      "page": 28,
+      "title": "Drain pump: service observation 028",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 028; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P029",
+      "page": 29,
+      "title": "Drain pump and hose: service observation 029",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 029; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P030",
+      "page": 30,
+      "title": "Dispenser drawer: service observation 030",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 030; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P031",
+      "page": 31,
+      "title": "Drain pump and filter: service observation 031",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 031; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P032",
+      "page": 32,
+      "title": "Water inlet valve and hose: service observation 032",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 032; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P033",
+      "page": 33,
+      "title": "Suspension and load balance: service observation 033",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 033; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P034",
+      "page": 34,
+      "title": "Door seal and latch: service observation 034",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 034; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P035",
+      "page": 35,
+      "title": "Installation and suspension: service observation 035",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 035; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P036",
+      "page": 36,
+      "title": "Heating system: service observation 036",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 036; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P037",
+      "page": 37,
+      "title": "Door lock: service observation 037",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 037; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P038",
+      "page": 38,
+      "title": "Drain pump: service observation 038",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 038; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P039",
+      "page": 39,
+      "title": "Drain pump and hose: service observation 039",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 039; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P040",
+      "page": 40,
+      "title": "Dispenser drawer: service observation 040",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 040; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P041",
+      "page": 41,
+      "title": "Drain pump and filter: service observation 041",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 041; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P042",
+      "page": 42,
+      "title": "Water inlet valve and hose: service observation 042",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 042; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P043",
+      "page": 43,
+      "title": "Suspension and load balance: service observation 043",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 043; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P044",
+      "page": 44,
+      "title": "Door seal and latch: service observation 044",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 044; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P045",
+      "page": 45,
+      "title": "Installation and suspension: service observation 045",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 045; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P046",
+      "page": 46,
+      "title": "Heating system: service observation 046",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 046; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P047",
+      "page": 47,
+      "title": "Door lock: service observation 047",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 047; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P048",
+      "page": 48,
+      "title": "Drain pump: service observation 048",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 048; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P049",
+      "page": 49,
+      "title": "Drain pump and hose: service observation 049",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 049; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P050",
+      "page": 50,
+      "title": "Dispenser drawer: service observation 050",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 050; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P051",
+      "page": 51,
+      "title": "Drain pump and filter: service observation 051",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 051; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P052",
+      "page": 52,
+      "title": "Water inlet valve and hose: service observation 052",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 052; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P053",
+      "page": 53,
+      "title": "Suspension and load balance: service observation 053",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 053; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P054",
+      "page": 54,
+      "title": "Door seal and latch: service observation 054",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 054; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P055",
+      "page": 55,
+      "title": "Installation and suspension: service observation 055",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 055; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P056",
+      "page": 56,
+      "title": "Heating system: service observation 056",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 056; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P057",
+      "page": 57,
+      "title": "Door lock: service observation 057",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 057; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P058",
+      "page": 58,
+      "title": "Drain pump: service observation 058",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 058; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P059",
+      "page": 59,
+      "title": "Drain pump and hose: service observation 059",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 059; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P060",
+      "page": 60,
+      "title": "Dispenser drawer: service observation 060",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 060; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P061",
+      "page": 61,
+      "title": "Drain pump and filter: service observation 061",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 061; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P062",
+      "page": 62,
+      "title": "Water inlet valve and hose: service observation 062",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 062; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P063",
+      "page": 63,
+      "title": "Suspension and load balance: service observation 063",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 063; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P064",
+      "page": 64,
+      "title": "Door seal and latch: service observation 064",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 064; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P065",
+      "page": 65,
+      "title": "Installation and suspension: service observation 065",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 065; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P066",
+      "page": 66,
+      "title": "Heating system: service observation 066",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 066; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P067",
+      "page": 67,
+      "title": "Door lock: service observation 067",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 067; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P068",
+      "page": 68,
+      "title": "Drain pump: service observation 068",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 068; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P069",
+      "page": 69,
+      "title": "Drain pump and hose: service observation 069",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 069; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P070",
+      "page": 70,
+      "title": "Dispenser drawer: service observation 070",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 070; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P071",
+      "page": 71,
+      "title": "Drain pump and filter: service observation 071",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 071; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P072",
+      "page": 72,
+      "title": "Water inlet valve and hose: service observation 072",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 072; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P073",
+      "page": 73,
+      "title": "Suspension and load balance: service observation 073",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 073; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P074",
+      "page": 74,
+      "title": "Door seal and latch: service observation 074",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 074; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P075",
+      "page": 75,
+      "title": "Installation and suspension: service observation 075",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 075; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P076",
+      "page": 76,
+      "title": "Heating system: service observation 076",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 076; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P077",
+      "page": 77,
+      "title": "Door lock: service observation 077",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 077; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P078",
+      "page": 78,
+      "title": "Drain pump: service observation 078",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 078; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P079",
+      "page": 79,
+      "title": "Drain pump and hose: service observation 079",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 079; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P080",
+      "page": 80,
+      "title": "Dispenser drawer: service observation 080",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 080; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P081",
+      "page": 81,
+      "title": "Drain pump and filter: service observation 081",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 081; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P082",
+      "page": 82,
+      "title": "Water inlet valve and hose: service observation 082",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 082; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P083",
+      "page": 83,
+      "title": "Suspension and load balance: service observation 083",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 083; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P084",
+      "page": 84,
+      "title": "Door seal and latch: service observation 084",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 084; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P085",
+      "page": 85,
+      "title": "Installation and suspension: service observation 085",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 085; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P086",
+      "page": 86,
+      "title": "Heating system: service observation 086",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 086; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P087",
+      "page": 87,
+      "title": "Door lock: service observation 087",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 087; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P088",
+      "page": 88,
+      "title": "Drain pump: service observation 088",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 088; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P089",
+      "page": 89,
+      "title": "Drain pump and hose: service observation 089",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 089; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P090",
+      "page": 90,
+      "title": "Dispenser drawer: service observation 090",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 090; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P091",
+      "page": 91,
+      "title": "Drain pump and filter: service observation 091",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 091; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P092",
+      "page": 92,
+      "title": "Water inlet valve and hose: service observation 092",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 092; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P093",
+      "page": 93,
+      "title": "Suspension and load balance: service observation 093",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 093; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P094",
+      "page": 94,
+      "title": "Door seal and latch: service observation 094",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 094; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P095",
+      "page": 95,
+      "title": "Installation and suspension: service observation 095",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 095; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P096",
+      "page": 96,
+      "title": "Heating system: service observation 096",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 096; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P097",
+      "page": 97,
+      "title": "Door lock: service observation 097",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 097; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P098",
+      "page": 98,
+      "title": "Drain pump: service observation 098",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 098; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P099",
+      "page": 99,
+      "title": "Drain pump and hose: service observation 099",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 099; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P100",
+      "page": 100,
+      "title": "Dispenser drawer: service observation 100",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 100; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P101",
+      "page": 101,
+      "title": "Drain pump and filter: service observation 101",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 101; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P102",
+      "page": 102,
+      "title": "Water inlet valve and hose: service observation 102",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 102; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P103",
+      "page": 103,
+      "title": "Suspension and load balance: service observation 103",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 103; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P104",
+      "page": 104,
+      "title": "Door seal and latch: service observation 104",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 104; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P105",
+      "page": 105,
+      "title": "Installation and suspension: service observation 105",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 105; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P106",
+      "page": 106,
+      "title": "Heating system: service observation 106",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 106; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P107",
+      "page": 107,
+      "title": "Door lock: service observation 107",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 107; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P108",
+      "page": 108,
+      "title": "Drain pump: service observation 108",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 108; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P109",
+      "page": 109,
+      "title": "Drain pump and hose: service observation 109",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 109; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P110",
+      "page": 110,
+      "title": "Dispenser drawer: service observation 110",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 110; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P111",
+      "page": 111,
+      "title": "Drain pump and filter: service observation 111",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 111; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P112",
+      "page": 112,
+      "title": "Water inlet valve and hose: service observation 112",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 112; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P113",
+      "page": 113,
+      "title": "Suspension and load balance: service observation 113",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 113; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P114",
+      "page": 114,
+      "title": "Door seal and latch: service observation 114",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 114; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P115",
+      "page": 115,
+      "title": "Installation and suspension: service observation 115",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 115; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P116",
+      "page": 116,
+      "title": "Heating system: service observation 116",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 116; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P117",
+      "page": 117,
+      "title": "Door lock: service observation 117",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 117; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P118",
+      "page": 118,
+      "title": "Drain pump: service observation 118",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 118; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P119",
+      "page": 119,
+      "title": "Drain pump and hose: service observation 119",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 119; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P120",
+      "page": 120,
+      "title": "Dispenser drawer: service observation 120",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 120; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P121",
+      "page": 121,
+      "title": "Drain pump and filter: service observation 121",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 121; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P122",
+      "page": 122,
+      "title": "Water inlet valve and hose: service observation 122",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 122; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P123",
+      "page": 123,
+      "title": "Suspension and load balance: service observation 123",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 123; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P124",
+      "page": 124,
+      "title": "Door seal and latch: service observation 124",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 124; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P125",
+      "page": 125,
+      "title": "Installation and suspension: service observation 125",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 125; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P126",
+      "page": 126,
+      "title": "Heating system: service observation 126",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 126; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P127",
+      "page": 127,
+      "title": "Door lock: service observation 127",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 127; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P128",
+      "page": 128,
+      "title": "Drain pump: service observation 128",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 128; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P129",
+      "page": 129,
+      "title": "Drain pump and hose: service observation 129",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 129; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P130",
+      "page": 130,
+      "title": "Dispenser drawer: service observation 130",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 130; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P131",
+      "page": 131,
+      "title": "Drain pump and filter: service observation 131",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 131; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P132",
+      "page": 132,
+      "title": "Water inlet valve and hose: service observation 132",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 132; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P133",
+      "page": 133,
+      "title": "Suspension and load balance: service observation 133",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 133; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P134",
+      "page": 134,
+      "title": "Door seal and latch: service observation 134",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 134; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P135",
+      "page": 135,
+      "title": "Installation and suspension: service observation 135",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 135; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P136",
+      "page": 136,
+      "title": "Heating system: service observation 136",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 136; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P137",
+      "page": 137,
+      "title": "Door lock: service observation 137",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 137; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P138",
+      "page": 138,
+      "title": "Drain pump: service observation 138",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 138; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P139",
+      "page": 139,
+      "title": "Drain pump and hose: service observation 139",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 139; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P140",
+      "page": 140,
+      "title": "Dispenser drawer: service observation 140",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 140; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P141",
+      "page": 141,
+      "title": "Drain pump and filter: service observation 141",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 141; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P142",
+      "page": 142,
+      "title": "Water inlet valve and hose: service observation 142",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 142; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P143",
+      "page": 143,
+      "title": "Suspension and load balance: service observation 143",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 143; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P144",
+      "page": 144,
+      "title": "Door seal and latch: service observation 144",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 144; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P145",
+      "page": 145,
+      "title": "Installation and suspension: service observation 145",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 145; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P146",
+      "page": 146,
+      "title": "Heating system: service observation 146",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 146; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P147",
+      "page": 147,
+      "title": "Door lock: service observation 147",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 147; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P148",
+      "page": 148,
+      "title": "Drain pump: service observation 148",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 148; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P149",
+      "page": 149,
+      "title": "Drain pump and hose: service observation 149",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 149; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P150",
+      "page": 150,
+      "title": "Dispenser drawer: service observation 150",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 150; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P151",
+      "page": 151,
+      "title": "Drain pump and filter: service observation 151",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 151; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P152",
+      "page": 152,
+      "title": "Water inlet valve and hose: service observation 152",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 152; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P153",
+      "page": 153,
+      "title": "Suspension and load balance: service observation 153",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 153; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P154",
+      "page": 154,
+      "title": "Door seal and latch: service observation 154",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 154; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P155",
+      "page": 155,
+      "title": "Installation and suspension: service observation 155",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 155; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P156",
+      "page": 156,
+      "title": "Heating system: service observation 156",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 156; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P157",
+      "page": 157,
+      "title": "Door lock: service observation 157",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 157; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P158",
+      "page": 158,
+      "title": "Drain pump: service observation 158",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 158; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P159",
+      "page": 159,
+      "title": "Drain pump and hose: service observation 159",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 159; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P160",
+      "page": 160,
+      "title": "Dispenser drawer: service observation 160",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 160; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P161",
+      "page": 161,
+      "title": "Drain pump and filter: service observation 161",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 161; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P162",
+      "page": 162,
+      "title": "Water inlet valve and hose: service observation 162",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 162; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P163",
+      "page": 163,
+      "title": "Suspension and load balance: service observation 163",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 163; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P164",
+      "page": 164,
+      "title": "Door seal and latch: service observation 164",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 164; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P165",
+      "page": 165,
+      "title": "Installation and suspension: service observation 165",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 165; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P166",
+      "page": 166,
+      "title": "Heating system: service observation 166",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 166; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P167",
+      "page": 167,
+      "title": "Door lock: service observation 167",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 167; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P168",
+      "page": 168,
+      "title": "Drain pump: service observation 168",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 168; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P169",
+      "page": 169,
+      "title": "Drain pump and hose: service observation 169",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 169; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P170",
+      "page": 170,
+      "title": "Dispenser drawer: service observation 170",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 170; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P171",
+      "page": 171,
+      "title": "Drain pump and filter: service observation 171",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 171; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P172",
+      "page": 172,
+      "title": "Water inlet valve and hose: service observation 172",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 172; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P173",
+      "page": 173,
+      "title": "Suspension and load balance: service observation 173",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 173; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P174",
+      "page": 174,
+      "title": "Door seal and latch: service observation 174",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 174; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P175",
+      "page": 175,
+      "title": "Installation and suspension: service observation 175",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 175; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P176",
+      "page": 176,
+      "title": "Heating system: service observation 176",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 176; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P177",
+      "page": 177,
+      "title": "Door lock: service observation 177",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 177; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P178",
+      "page": 178,
+      "title": "Drain pump: service observation 178",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 178; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P179",
+      "page": 179,
+      "title": "Drain pump and hose: service observation 179",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 179; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P180",
+      "page": 180,
+      "title": "Dispenser drawer: service observation 180",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 180; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P181",
+      "page": 181,
+      "title": "Drain pump and filter: service observation 181",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 181; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P182",
+      "page": 182,
+      "title": "Water inlet valve and hose: service observation 182",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 182; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P183",
+      "page": 183,
+      "title": "Suspension and load balance: service observation 183",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 183; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P184",
+      "page": 184,
+      "title": "Door seal and latch: service observation 184",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 184; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P185",
+      "page": 185,
+      "title": "Installation and suspension: service observation 185",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 185; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P186",
+      "page": 186,
+      "title": "Heating system: service observation 186",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 186; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P187",
+      "page": 187,
+      "title": "Door lock: service observation 187",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 187; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P188",
+      "page": 188,
+      "title": "Drain pump: service observation 188",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 188; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P189",
+      "page": 189,
+      "title": "Drain pump and hose: service observation 189",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 189; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P190",
+      "page": 190,
+      "title": "Dispenser drawer: service observation 190",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 190; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P191",
+      "page": 191,
+      "title": "Drain pump and filter: service observation 191",
+      "text": "Component: Drain pump and filter. Search terms: drain, E21, E20, water remains, pump, hose. Procedure: With the appliance isolated from power, inspect only the user-accessible drain filter and hose for lint, kinks, or blockage. Follow the model-specific procedure before any internal inspection. Record drain flow and the displayed code during a supervised test. Record sheet: page-specific observation 191; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P192",
+      "page": 192,
+      "title": "Water inlet valve and hose: service observation 192",
+      "text": "Component: Water inlet valve and hose. Search terms: slow fill, E10, inlet, water supply, hose. Procedure: Confirm the water supply is available and the inlet hose is not kinked. Inspect the accessible inlet screen only as described for this model. Record fill time and the exact code; refer internal valve checks to a qualified technician. Record sheet: page-specific observation 192; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P193",
+      "page": 193,
+      "title": "Suspension and load balance: service observation 193",
+      "text": "Component: Suspension and load balance. Search terms: spin, unbalanced load, vibration, drum. Procedure: Check for an uneven or single bulky load and confirm the unit is level and stable. Repeat the spin observation with a balanced load. Refer persistent excessive movement or internal suspension checks to a qualified technician. Record sheet: page-specific observation 193; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P194",
+      "page": 194,
+      "title": "Door seal and latch: service observation 194",
+      "text": "Component: Door seal and latch. Search terms: door leak, seal, latch, water at door. Procedure: Stop the cycle and inspect the visible door seal for trapped fabric, debris, or damage. Confirm the door closes evenly. Do not operate with a damaged seal; record where and when leakage occurs. Record sheet: page-specific observation 194; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P195",
+      "page": 195,
+      "title": "Installation and suspension: service observation 195",
+      "text": "Component: Installation and suspension. Search terms: vibration, transit bolts, leveling, spin. Procedure: Verify installation against the model instructions, including removal of transit restraints and stable contact of all feet with the floor. Repeat a supervised balanced-load spin test and record the conditions. Record sheet: page-specific observation 195; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P196",
+      "page": 196,
+      "title": "Heating system: service observation 196",
+      "text": "Component: Heating system. Search terms: cold water, heating, temperature, warm cycle. Procedure: Compare the selected program and observed temperature behavior with the model specification. Heating-circuit measurements and internal repairs must be performed by a qualified technician using the model-specific procedure. Record sheet: page-specific observation 196; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P197",
+      "page": 197,
+      "title": "Door lock: service observation 197",
+      "text": "Component: Door lock. Search terms: door locked, release, latch, cycle ended. Procedure: After the program ends, allow the normal release delay and confirm the drum is empty and drained. Record the lock indicator and exact sequence. Do not force the door; refer persistent lock faults to a qualified technician. Record sheet: page-specific observation 197; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P198",
+      "page": 198,
+      "title": "Drain pump: service observation 198",
+      "text": "Component: Drain pump. Search terms: grinding, noise, pump, drain, filter. Procedure: Record whether noise occurs during fill, wash, or drain. With power isolated, inspect only the accessible filter area for foreign objects. Internal pump inspection must use the approved model procedure and qualified personnel. Record sheet: page-specific observation 198; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P199",
+      "page": 199,
+      "title": "Drain pump and hose: service observation 199",
+      "text": "Component: Drain pump and hose. Search terms: E20, drain, hose, water remains, rinse. Procedure: Check drain hose routing for kinks and the accessible filter for lint, following the model service procedure. Record drain flow and the point in the program when the code appears. Record sheet: page-specific observation 199; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    },
+    {
+      "id": "SM-P200",
+      "page": 200,
+      "title": "Dispenser drawer: service observation 200",
+      "text": "Component: Dispenser drawer. Search terms: detergent drawer, softener, retained water, dispenser. Procedure: Remove and clean only the drawer parts identified as removable in the model instructions. Check the siphon insert is seated and run a supervised fill test; record which compartment retains water. Record sheet: page-specific observation 200; note model, program phase, displayed code, and test result. Safety: stop use if there is a leak, burning smell, or damaged cable. Electrical/internal work is for qualified service personnel only.",
+      "source": "Fictional washing-machine service manual (sample)"
+    }
+  ]
+}
